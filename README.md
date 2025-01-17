@@ -46,25 +46,25 @@ Include screenshots as described in the [Lab 1](L1.md) file.
 
 Include answers as described in the [Lab 1](L1.md) file:
 
-### Q1
+### Q1 Git is a version control system for developers to track their code version changes. GitHub is a cloud plantform which host the repositories for developers to edit and update their code through Git command. Also GitHub has other tools and services for users to manage code offline and online.
 
-### Q2
+### Q2 A distributed version control system(DVCS) is a type of version control. It allows all the developers have an entire copy of the whole project history on their system. Also, DVCS allows developers to make changes offline and commit to online repository.
 
-### Q3
+### Q3 The first step is Edit. In this step, all the code can be edited in local environment, but the changes have not been save to the git repository yet. The second step is Stage. In this step, the code is ready to include the changes to next commit, but not committed yet. The third step is Commit. In this step, the file is committed. This means the change is stored in local repository and ready to be pushed to a remote repository.
 
-### Q4
+### Q4 
 
-#### Q4 (i)
+#### Q4 (i) Git clone is a command to create a copy of an existing Git repository from remote source to local environment.
 
-#### Q4 (ii)
+#### Q4 (ii) Git status is a command to show the current state of working environment and staging area.
 
-#### Q4 (iii)
+#### Q4 (iii) Git fetch is a command to download the latest changes from a remote source to local environment.
 
-#### Q4 (iv)
+#### Q4 (iv) Git init is a command to initialize a new Git repository in an existing environment.
 
-#### Q4 (v)
+#### Q4 (v) Git log is a command to show the history of commits in repository.
 
-### Q5
+### Q5 .gitignore file is a text file used in a working environment to prevent unnecessary clutter. It tells Git to ignore certain sensitive or unnecessary files, preventing them from being committed to the repository, which helps keep the repository clean and secure.
 
 ## Task 4: Video Questions (4 marks)
 
