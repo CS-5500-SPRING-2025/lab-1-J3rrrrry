@@ -70,6 +70,6 @@ Include answers as described in the [Lab 1](L1.md) file:
 
 Include answers as described in the [Lab 1](L1.md) file.
 
-### Q1
+### Q1 The video demonstrates the process of the Software Development Life Cycle (SDLC), which breaks down the complex software development process into manageable stages: requirements planning, requirements analysis, design, implementation, testing, deployment, and maintenance. Among these, the testing phase is especially important as it plays a key role in risk management within the SDLC. Similarly, different stages of the SDLC serve different functions in software development. For example, the requirements planning stage sets the project budget, the implementation stage efficiently combines physical hardware, code, and UI design. This process enhances communication efficiency among team members at each stage and improves risk management, ultimately leading to the creation of a high-quality product that meets the budget.
 
-### Q2
+### Q2 The Software Development Lifecycle(SDLC) is a good framework for developers to manage resources, budegets and project timeline. By breaking down the software development into different manageable stages, SDLC could not only help develpers to identify and resolve issues early but also increase efficiency to meet the project requirement. Therefore, in SDLC, it provides many carefully planned, implementated and tested stages, which promotes origanization, risk management and efficiency for software projects.
