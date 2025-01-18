@@ -33,14 +33,24 @@ Example (Lab 3):
 
 More detailed submission instructions can be found via the [lab page](https://parsa-rajabi.github.io/CS-5500/#/labs).
 
+[L1_AI_Declaration_Zhuoyuan_Liu_002815625.pdf](https://github.com/user-attachments/files/18463261/L1_AI_Declaration_Zhuoyuan_Liu_002815625.pdf)
+
+
 
 ## Task 1: Prepare your System (1 mark)
 
 Include screenshots as described in the [Lab 1](L1.md) file.
+<img width="584" alt="Screenshot 2025-01-16 at 6 38 47 PM" src="https://github.com/user-attachments/assets/d1bb0738-dfc8-4e1a-b369-c18ee6ea70df" />
+<img width="583" alt="Screenshot 2025-01-16 at 6 39 12 PM" src="https://github.com/user-attachments/assets/03fd5e2c-b11b-4a2f-b02c-8a304c015c96" />
+<img width="585" alt="Screenshot 2025-01-16 at 6 39 45 PM" src="https://github.com/user-attachments/assets/ab3fa8e2-4c98-47c7-b0e8-78ccd98a2929" />
+
 
 ## Task 2: GitHub Tutorial (24 marks)
 
 Include screenshots as described in the [Lab 1](L1.md) file.
+<img width="1920" alt="Screenshot 2025-01-16 at 6 36 53 PM" src="https://github.com/user-attachments/assets/85e3029f-0b35-48ec-a02f-d9d312ca1799" />
+<img width="1920" alt="Screenshot 2025-01-16 at 6 36 48 PM" src="https://github.com/user-attachments/assets/9faca0d0-d716-4f04-90e6-e59d9ae14f7b" />
+
 
 ## Task 3: Lab Questions (11 marks)
 
